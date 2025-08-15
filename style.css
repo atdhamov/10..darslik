@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1140px;
+}
+
+.boxses{
+    width: 1441px;
+    height: 900px;
+    background-color: rgb(5, 1, 29);
+    margin:0 auto;
+    margin-top: 30px;
+}
+
+h2{
+    font-family: Poppins;
+font-weight: 600;
+font-size: 24px;
+line-height: 24px;
+letter-spacing: 0%;
+vertical-align: middle;
+color: white;
+}
+
+header{
+    width: 1441px;
+    height: 64px;
+    background-color: #0C0E1866;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn{
+    font-family: Poppins;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: right;
+padding: 9pz 66px;
+color: white;
+border-radius: 15px;
+border: none;
+background:none;
+}
+
+.btn:hover{
+    background-color: #BFAFF2;
+}
+
+.card{
+    display: flex;
+    gap: 25px;
+}
+
+.box{
+    display: flex;
+    gap: 40px;
+}
+
+select{
+    background: none;
+    color: white;
+    border: none;
+}
+
+option{
+    background-color: #232028;
+}
+
+.junior{
+    position: relative;
+    width: 325px;
+    height: 240px;
+    border-radius: 32px;
+    background-color: #232028;
+    margin: 20px;
+}
+
+.section1{
+    display: flex;
+    margin-top: 400px;
+}
+
+.junior h2{
+    font-family: Outfit;
+font-weight: 400;
+font-style: Regular;
+font-size: 32px;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 60px;
+padding-bottom: 10px;
+}
+
+.junior p{
+    font-family: Outfit;
+font-weight: 400;
+font-style: Regular;
+font-size: 14px;
+line-height: 120%;
+letter-spacing: 0%;
+text-align: center;
+color: white;
+}
+
+.img1{
+    position: absolute;
+    top: -280px;
+    padding-left: 30px;
+}
+
+footer a{
+    color: white;
+   
+}
+
+footer{
+    width: 1440px;
+    height: 64px;
+    background-color: #0C0E1866;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 120px;
+    
+}
+
+footer ul{
+    display: flex;
+    gap: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
